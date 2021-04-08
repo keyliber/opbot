@@ -1,0 +1,9 @@
+{
+  "name": "testing-server-op-bot",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "multicraft": "^1.0.17",
+    "tmi.js": "^1.7.1"
+  }
+}
